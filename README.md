@@ -10,7 +10,7 @@ Further improvements will include:
 
 ## My favorite features
 
-Thanks to ```Dice``` object prototype, ```roll``` method, and the use of ```this```, the app is ready for any number of dice rolled, and dice could have arbitrary number of sides. To roll a die, just say:
+Thanks to ```Dice``` object prototype, ```roll``` method, and the use of ```this```, the app is ready for any number of dice rolled, and dice could have arbitrary number of sides. To roll a die with certanin number of sides, just say:
 
 ```javascript
 new Dice(6);
